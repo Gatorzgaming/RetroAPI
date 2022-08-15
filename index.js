@@ -11,7 +11,7 @@ if(config.token == "TOKEN GOES HERE"){
     console.log('\x1b[31m%s\x1b[0m', "You must add a token in the config.json file, please visit https://discord.com/developers/applications and get a bot token"); process.exit(); };
 
 //Alet system
-
+if(config.joinchannel.value.length == 0){'\x1b[33m%s\x1b[0m', "Warning: there is not channel valve for a join channel and it will cause a fatial error if someone joins or leaves the server!"};
 
 
 //Prefix is not yet used

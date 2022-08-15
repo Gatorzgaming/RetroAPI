@@ -1,0 +1,14 @@
+{
+  "name": "retro-bot",
+  "version": "2.1.3",
+  "description": "Retro bot is a project I made for fun, some of the code used was from open sorce reposatories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gatorzgaming",
+  "license": "Creative Commons NonCommercial license CCBYNC | Free to use with credit if your not selling the code",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

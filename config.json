@@ -3,7 +3,7 @@
     "prefix": "!",
     "APIname": "Retro API",
     "token":"TOKEN GOES HERE",
-    "joinchannel":"",
-    "logchannel":""
+    "joinchannel":"Join_alert_channel_ID_goes_here",
+    "logchannel":"Logs_channel_ID_goes_here"
     
 }

@@ -20,7 +20,7 @@ const config = require("./config.json")
             {console.warn('\x1b[33m%s\x1b[0m', "Warning:");console.log(" There is not channel ID valve for a join channel in config.json  IT WILL cause a FATIAL error if someone joins or leaves the server! For more information please refrence:  https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-#:~:text=On%20Android%20press%20and%20hold,name%20and%20select%20Copy%20ID.");};
     
     //Logs Channel (config.logchannel)
-        if(config.logchannel = 'Logs_channel_ID_goes_here')
+        if(config.logchannel == 'Logs_channel_ID_goes_here')
             {console.warn('\x1b[33m%s\x1b[0m', "Warning:");console.log(" There is not channel ID for a log channel in config.json certian acctions will cause a FATIAL error. For more information please refrence:  https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-#:~:text=On%20Android%20press%20and%20hold,name%20and%20select%20Copy%20ID.");};
 
 //Prefix is not yet used

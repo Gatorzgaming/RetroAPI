@@ -1,0 +1,18 @@
+{
+    "1":"Welcome" + "<@"+ member.user +"> "+" We hope you brought pizza",
+    "2":"<@"+ member.user +"> " +"  must have traveled many years to get here",
+    "3":"Welcome to the server " + "<@"+ member.user +"> " ,
+    "4":"A portal apreaded and <@"+ member.user +"> Came out of it",
+    "5":"A wild <@"+ member.user +"> Appeared ",
+    "6":"<@"+ member.user +"> Has arived, Quick hide the bananas!",
+    "7":"<@"+ member.user +"> has arrived. Party's over.",
+    "8":"It's a bird! It's a plane! Nevermind, it's just <@"+ member.user +">",
+    "9":"Glad you're here <@"+ member.user +">",
+    "10":"<@"+ member.user +"> just showed up!",
+    "11":"We've been expecting you <@"+ member.user +">",
+    "12":"<@"+ member.user +"> just poped into the server!",
+    "13":"Lets give a warm welcome to <@"+ member.user +">",
+    "14":"<@"+ member.user +"> is here, as the prophecy foretold",
+    "15":"**PIZZA IS HERE**, wait never mind it's just <@"+ member.user +">",
+
+}

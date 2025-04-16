@@ -2,8 +2,8 @@ const { Client, MessageEmbed} = require("discord.js");
 
 const bot = new Client();
 module.exports = {
-    name: "pp",
-    description: "Rates something",
+    name: "deperacted-size",
+    description: "Rates something; deperacted and should be removed or reworked if you fork this project",
     cooldown: 5,
    
 }
@@ -15,10 +15,10 @@ if (!args[0]){
 }
  else {  
     const ratingfixed = args.toString().replace(/,/g," ");
-   let pp = Math.floor(Math.random() * 12);
-    const embed112 = new MessageEmbed()
+   let userSize = Math.floor(Math.random() * 12);
+    const userSizeEmbed = new MessageEmbed()
                             
                             .setAuthor('Retro Bot', '', 'https://discord.js.org')
                             .setColor('ebdd1c')
-                            .setDescription(ratingfixed + " pp is " + pp + " inches")
-                                message.channel.send(embed112)}}
+                            .setDescription(ratingfixed + " [REDACTED] is " + userSize + " inches")
+                                message.channel.send(userSizeEmbed)}}
